@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+nav {
+	display: flex;
+	justify-content: space-around;
+	padding:1rem 2rem;
+	background: #cfd8dc;
+}
+nav a {
+	text-decoration:none;
+	color: #0d47a1;
+	
+}
